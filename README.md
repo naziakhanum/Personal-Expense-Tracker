@@ -20,8 +20,9 @@ A simple Personal Expense Tracker built using Python and Streamlit. It helps use
 - Expense summary
 - Charts and graphs
 - Monthly reports
-- Search and filter
-- Delete/Edit expenses
+- SQLite database integration
+- User login system
+- Export expenses to CSV/Excel
 
 ## 👩‍💻 Developed by
 Nazia Khanum
